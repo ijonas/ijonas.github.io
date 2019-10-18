@@ -1,3 +1,8 @@
+.DS_Store
+dist/
+.cache/
+src/.temp/
+
 # Logs
 logs
 *.log
