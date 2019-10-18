@@ -7,9 +7,8 @@
 module.exports = {
   siteName: 'ijonas.com',
   siteDescription: 'Habitual Ramblings of an Indiginous Ijonous',
-  siteUrl: 'https://ijonas.github.io',
-  pathPrefix: '/',
-  
+  siteUrl: 'https://ijonas.github.io'
+    
   templates: {
     Post: '/:title',
     Tag: '/tag/:id'
